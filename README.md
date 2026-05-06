@@ -26,6 +26,7 @@ A Chrome extension for real estate investors, agents, and buyers that analyzes p
 MIT
 
 
+
 ---
 
 ## Free vs Pro
@@ -46,5 +47,8 @@ MIT
 
 Get the full version with all premium features, priority support, and lifetime updates.
 
-**[Get Pro Version](https://whop.com/chrome-extension-real-estate-listing-analyzer-and-investment-calculator)**
+**[Get Pro Version](https://buy.stripe.com/28E14n4eP5wg8FGcDWcZb0d)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/28E14n4eP5wg8FGcDWcZb0d)
+- [Buy on Whop](https://whop.com/chrome-extension-real-estate-listing-analyzer-and-investment-calculator)
 
